@@ -1,1 +1,3 @@
-document.write("Webpack for the win!");
+require('../style/app.less');
+
+console.log("Webpack for the win!");

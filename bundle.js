@@ -83,7 +83,7 @@
 
 
 	// module
-	exports.push([module.id, ".test {\n  font-size: 5em;\n  color: red;\n  text-align: center;\n}\n", ""]);
+	exports.push([module.id, ".test {\n  font-size: 5em;\n  color: red;\n  text-align: center;\n}\n#one {\n  background-color: #542362;\n  width: 100%;\n  height: 100vh;\n  min-height: 550px;\n}\n#two {\n  background-color: #CA5DEB;\n  width: 100%;\n  height: 100vh;\n  min-height: 550px;\n}\n#three {\n  background-color: #9A56AF;\n  width: 100%;\n  height: 100vh;\n  min-height: 550px;\n}\n.innerContainer {\n  width: 100%;\n  height: 100%;\n  padding-top: 6em;\n  min-height: 550px;\n}\n#menu {\n  background-color: #000000;\n  position: fixed;\n  height: 6em;\n  width: 100%;\n}\n.titleContainer {\n  font-family: 'Segoe UI';\n  color: white;\n  margin: 0px 0px 0px 0.2em;\n  font-size: 4em;\n  display: inline-block;\n}\n.links {\n  float: right;\n}\nbody {\n  margin: 0px;\n}\nul > li {\n  display: inline;\n}\np {\n  color: white;\n  font-size: 2em;\n}\n.menuItem {\n  font-family: 'Segoe UI';\n  margin: 0.2em 0.2em 0.2em 0.4em;\n  color: white;\n  font-size: 2em;\n  text-decoration: none;\n}\n", ""]);
 
 	// exports
 
